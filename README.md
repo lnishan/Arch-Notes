@@ -1,5 +1,5 @@
 # Arch-Notes
-This a repo housing my short notes for [CMU 18-447 Introduction to Computer Architecture – Spring 2015](http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule) (lectured by [Prof. Onur Mutlu](http://users.ece.cmu.edu/~omutlu/)).  
+My short notes for [CMU 18-447 Introduction to Computer Architecture – Spring 2015](http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule) (lectured by [Prof. Onur Mutlu](http://users.ece.cmu.edu/~omutlu/)).  
 All the lecture materials (including lecture videos) are available on its [course page](http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule).
 
 ## Lecture Notes
@@ -29,7 +29,7 @@ All the lecture materials (including lecture videos) are available on its [cours
 ### L03. ISA Tradeoffs
 
 - *Bit steering*: A bit to determine the type of instruction for interpretation
-- Instruction: opcode, operands
+- Instruction: *opcode*, *operands*
 - ISA elements:
     - Instruction sequencing model (control flow vs. data flow)
     - Instruction processing style (0, 1, 2, 3 address machines)
