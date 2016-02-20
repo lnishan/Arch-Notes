@@ -7,13 +7,15 @@ All the lecture materials (including lecture videos) are available on its [cours
 - [L01. Introduction and Basics](#l01-introduction-and-basics)
 - [L02. Fundamental Concepts and ISA ](#l02-fundamental-concepts-and-isa)
 - [L03. ISA Tradeoffs](#l03-isa-tradeoffs)
-- >*Previewed, In-progress*
-- *L04. ISA Tradeoffs (cont.) & MIPS ISA*
-- *L05. Intro to Microarchitecture: Single-Cycle*
-- *L06. Multi-Cycle and Microprogrammed Microarchitectures*
-- *L09. Branch Prediction I*
-- *L14. SIMD Processing (Vector and Array Processors)*
-- *L18. Caches, Caches, Cachess*
+
+*Previewed, In-progress*
+
+- L04. ISA Tradeoffs (cont.) & MIPS ISA
+- L05. Intro to Microarchitecture: Single-Cycle*
+- L06. Multi-Cycle and Microprogrammed Microarchitectures
+- L09. Branch Prediction I
+- L14. SIMD Processing (Vector and Array Processors)
+- L18. Caches, Caches, Caches
 
 ## Lecture Notes
 
