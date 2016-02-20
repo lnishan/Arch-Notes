@@ -1,6 +1,6 @@
 # Arch-Notes
-This a repo housing my short notes for [CMU 18-740 Computer Architecture – Fall 2015](http://www.ece.cmu.edu/~ece740/f15/doku.php).  
-The lecture videos are openly available on [YouTube](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq).
+This a repo housing my short notes for [CMU 18-447 Computer Architecture – Fall 2015](http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule) (lectured by [Prof. Onur Mutlu](http://users.ece.cmu.edu/~omutlu/)).  
+All the lecture materials (including lecture videos) are available on its [course page](http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule).
 
 ## Lecture Notes
 
