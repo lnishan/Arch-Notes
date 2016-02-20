@@ -62,3 +62,6 @@ All the lecture materials (including lecture videos) are available on its [cours
 -  Number of registers: More => better utilization and optimization, larger instruction size (more bits for addr)
 
 
+## License
+[CC Attribution-Share Alike 3.0 Unported](http://creativecommons.org/licenses/by-sa/3.0/)
+
