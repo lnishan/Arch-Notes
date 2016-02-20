@@ -21,7 +21,7 @@ The lecture videos are openly available on [YouTube](https://www.youtube.com/pla
 - Dataflow nodes: conditional (branching), relational, barrier synchronization (parallel programs)
 *FPGAs ?*
 - ISA: Agreed upon interface between software and hardware
-- Microarchitecture: A special implementation of ISA, not visible to software
+- Microarchitecture: A specific implementation of ISA, not visible to software
 - Microprocessor: ISA, uarch, circuits
 - "architecture" = ISA + microarchitecture
 - ISA = car functions (turn, acceleration/deceleration). Microarchitecture = how car manufacturers implement the functions underneath.
