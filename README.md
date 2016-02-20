@@ -2,6 +2,19 @@
 My short notes for [CMU 18-447 Introduction to Computer Architecture – Spring 2015](http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule) (lectured by [Prof. Onur Mutlu](http://users.ece.cmu.edu/~omutlu/)).  
 All the lecture materials (including lecture videos) are available on its [course page](http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule).
 
+## Table of Contents
+
+- [L01. Introduction and Basics](#l01-introduction-and-basics)
+- [L02. Fundamental Concepts and ISA ](#l02-fundamental-concepts-and-isa)
+- [L03. ISA Tradeoffs](#l03-isa-tradeoffs)
+- >*Previewed, In-progress*
+- *L04. ISA Tradeoffs (cont.) & MIPS ISA*
+- *L05. Intro to Microarchitecture: Single-Cycle*
+- *L06. Multi-Cycle and Microprogrammed Microarchitectures*
+- *L09. Branch Prediction I*
+- *L14. SIMD Processing (Vector and Array Processors)*
+- *L18. Caches, Caches, Cachess*
+
 ## Lecture Notes
 
 ### L01. Introduction and Basics
@@ -19,7 +32,7 @@ All the lecture materials (including lecture videos) are available on its [cours
 - *Von Neumann model*: control flow order (specified by *instruction pointer*)
 - *Dataflow model*: data flow order (fired when its *operands* are ready, no instruction pointer)
 - Dataflow nodes: conditional (branching), relational, barrier synchronization (parallel programs)  
-- *ISA*: Agreed upon interface between software and hardware
+- *ISA*: agreed upon interface between software and hardware
 - *Microarchitecture*: a specific implementation of ISA, not visible to software
 - *Microprocessor*: ISA, uarch, circuits
 - *"Architecture"** = ISA + microarchitecture
@@ -49,15 +62,15 @@ All the lecture materials (including lecture videos) are available on its [cours
 
 | Characteristics | CISC (x86) | RISC (ARM) |  
 | --- | --- | --- |  
-| Operates on | **Both** | Register only |  
-| Addressing modes | **More** | Less |  
-| Code size | **Shorter** | Longer |  
+| Operates On | **Both** | Register only |  
+| Addressing Modes | **More** | Less |  
+| Code Size | **Shorter** | Longer |  
 | Compiler Work | **Less** | More |  
 | Optimization | Rougher | **Finer** |  
 | Hardware | Complex | **Simpler** |  
 | Semantic Gap | Smaller | Greater |  
 | Instruction Length | Variable | Fixed |  
-| Decode uniformity | Non-uniform | Uniform |
+| Decode Uniformity | Non-uniform | Uniform |
 
 -  Number of registers: More => better utilization and optimization, larger instruction size (more bits for addr)
 
